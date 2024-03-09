@@ -5,12 +5,11 @@ body {
 h1 {
     color: orange;
     text-align: center;
+    outline: solid red;
 }
 
 h2 {
     color: blueviolet;
     text-align: center;
-}
-* {
-    outline: 2px solid black;
+    outline: solid red;
 }
