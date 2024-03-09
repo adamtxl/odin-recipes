@@ -13,3 +13,11 @@ h2 {
     text-align: center;
     outline: solid red;
 }
+
+ul {
+    border: solid black;
+}
+
+ol {
+    border: solid black;
+}
